@@ -27,5 +27,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-- Link do figma do projeto: https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---Angular%3A-Come%C3%A7ando-com-o-Framework?type=design&node-id=148-26&mode=design
+## Links úteis
+
+<a href=https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---Angular%3A-Come%C3%A7ando-com-o-Framework?type=design&node-id=148-26&mode=design>
+  <img src="https://static.figma.com/app/icon/1/favicon.png" alt="Ícone Figma" width="25" height="25"/>
+  <span>Figma</span>
+</a>
+
+
 - Github com o repositório da aula: https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-6/src
+
