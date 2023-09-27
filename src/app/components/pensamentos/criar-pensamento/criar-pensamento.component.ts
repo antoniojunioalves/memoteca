@@ -18,10 +18,6 @@ export class CriarPensamentoComponent implements OnInit {
     alert("Novo pensamento")
   }
 
-  cancelar() {
-    alert("Cancelou")
-  }
-
   constructor() { }
 
   ngOnInit(): void {
